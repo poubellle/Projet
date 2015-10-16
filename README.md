@@ -1,3 +1,3 @@
 # Projet
 Yey
-This is an awesome
+This is an awesome project
